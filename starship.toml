@@ -1,0 +1,13 @@
+[gcloud]
+disabled = true
+
+[directory]
+truncation_length = 99
+truncate_to_repo = false
+home_symbol = "/Users/jmroldan"
+
+[username]
+show_always = true
+
+[hostname]
+disabled = true
